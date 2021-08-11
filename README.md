@@ -7,7 +7,7 @@ En este repositorio tendremos un .html muy simple con 3 partes.
 3. foto
 
 El proyecto se trabajara en 2 branches. 
-1. titulo
-2. lista
+1. main (titulo, parrafo)
+2. lista (lista) y foto
 
 ignoraremos la imagen al momento de hacer commit, con .gitignore
